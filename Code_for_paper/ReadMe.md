@@ -5,6 +5,7 @@ The implementation of the paper.
 
 ```
 python train_multi_task.py
+python finu_tuning.py
 ```
 
 ## contract
